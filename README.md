@@ -479,6 +479,7 @@ A Great Collection of OSINT tools, By PT-Snails.
 
 ## Research and Investigative Tools
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com)
 - [Intelligence X](https://intelx.io)
 - [Censys](https://censys.io)
 - [Shodan](https://www.shodan.io)
